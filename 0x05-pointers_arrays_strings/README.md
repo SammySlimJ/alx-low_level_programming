@@ -1,0 +1,1 @@
+This README.md focuses on the topic of Pointers, Arrays and Strings
