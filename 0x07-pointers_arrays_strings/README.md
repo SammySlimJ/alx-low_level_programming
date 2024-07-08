@@ -1,0 +1,1 @@
+This README.md is for chapter 7 and focuses on even more pointers
