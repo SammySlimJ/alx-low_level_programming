@@ -1,0 +1,1 @@
+This README.md will focus on 0x0E. C - Structures, typedef
