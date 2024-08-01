@@ -5,6 +5,7 @@
 
 /**
  * struct list_s - singly linked list
+ * add_node - adds a new node at the beginning of a list_t list
  * @str: string - (malloc'ed string)
  * @len: length of the string
  * @next: points to the next node
